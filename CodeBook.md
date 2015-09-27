@@ -32,6 +32,7 @@ The acceleration signal was then separated into body and gravity acceleration si
 X,Y and Z correspond to the x, y and z components. Mag is the magnitude of these three components.
 Mean corresponds to the mean, std corresponds to the std dev of the signals.
 The freq domain signals (denoted with an f in fron of the names were obtained by taking a Fast Fourier Transform of the time signals)
+Features are normalized and bounded within [-1,1]
 
 ##Time Domain data
 
