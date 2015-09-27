@@ -37,67 +37,67 @@ The freq domain signals (denoted with an f in fron of the names were obtained by
 
 ###Body Acc:
 
-*tBodyAcc_mean_XYZ
-*tBodyAcc_mean_Mag
-*tBodyAcc_std_XYZ
-*tBodyAcc_std_Mag
+* tBodyAcc_mean_XYZ
+* tBodyAcc_mean_Mag
+* tBodyAcc_std_XYZ
+* tBodyAcc_std_Mag
 
 ###Body Acc Jerk:
 
-*tBodyAccJerk_mean_XYZ
-*tBodyAccJerk_mean_Mag
-*tBodyAccJerk_std_XYZ
-*tBodyAccJerk_std_Mag
+* tBodyAccJerk_mean_XYZ
+* tBodyAccJerk_mean_Mag
+* tBodyAccJerk_std_XYZ
+* tBodyAccJerk_std_Mag
 
 ###Gravity Acc:
 
-*tGravityAcc_mean_XYZ
-*tGravityAcc_mean_Mag
-*tGravityAcc_std_XYZ
-*tGravityAcc_std_Mag
+* tGravityAcc_mean_XYZ
+* tGravityAcc_mean_Mag
+* tGravityAcc_std_XYZ
+* tGravityAcc_std_Mag
 
 ###Body Gyro:
 
-*tBodyGyro_mean_XYZ
-*tBodyGyro_mean_Mag
-*tBodyGyro_std_XYZ
-*tBodyGyro_std_Mag
+* tBodyGyro_mean_XYZ
+* tBodyGyro_mean_Mag
+* tBodyGyro_std_XYZ
+* tBodyGyro_std_Mag
 
 ###Body Gyro Jerk:
 
-*tBodyGyroJerk_mean_XYZ
-*tBodyGyroJerk_mean_Mag
-*tBodyGyroJerk_std_XYZ
-*tBodyGyroJerk_std_Mag
+* tBodyGyroJerk_mean_XYZ
+* tBodyGyroJerk_mean_Mag
+* tBodyGyroJerk_std_XYZ
+* tBodyGyroJerk_std_Mag
 
 
 ##Freq Domain Data
 
 ###Body Acc
 
-*fBodyAcc_mean_XYZ
-*fBodyAcc_mean_Mag
-*fBodyAcc_std_XYZ
-*fBodyAcc_std_Mag
+* fBodyAcc_mean_XYZ
+* fBodyAcc_mean_Mag
+* fBodyAcc_std_XYZ
+* fBodyAcc_std_Mag
 
 ###Body Acc Jerk
 
-*fBodyAccJerk_mean_XYZ
-*fBodyAccJerk_mean_Mag
-*fBodyAccJerk_std_XYZ
-*fBodyAccJerk_std_Mag
+* fBodyAccJerk_mean_XYZ
+* fBodyAccJerk_mean_Mag
+* fBodyAccJerk_std_XYZ
+* fBodyAccJerk_std_Mag
 
 ###Body Gyro
 
-*fBodyGyro_mean_XYZ
-*fBodyGyro_mean_Mag
-*fBodyGyro_std_XYZ
-*fBodyGyro_std_Mag
+* fBodyGyro_mean_XYZ
+* fBodyGyro_mean_Mag
+* fBodyGyro_std_XYZ
+* fBodyGyro_std_Mag
 
 ###Body Gyro Jerk
 
-*fBodyGyroJerk_mean_Mag
-*fBodyGyroJerk_std_Mag
+* fBodyGyroJerk_mean_Mag
+* fBodyGyroJerk_std_Mag
 
 
 #Cleaning the data
@@ -112,6 +112,3 @@ The data was processed using the run_analysis.R script. It undertakes the follow
 * #Recasts the data by the the average for each subject and activity to create a final tidy dataset
 * Saves this tidy data as tidydata.txt
 
-
-
-#Download and unzip the dataset
