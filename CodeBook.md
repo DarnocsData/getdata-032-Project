@@ -109,6 +109,6 @@ The data was processed using the run_analysis.R script. It undertakes the follow
 * Adds the subject and activity data
 * Selects only the std and mean values
 * Renames some variables into a R friendly format
-* #Recasts the data by the the average for each subject and activity to create a final tidy dataset
+* Recasts the data by the the average for each subject and activity to create a final tidy dataset
 * Saves this tidy data as tidydata.txt
 
